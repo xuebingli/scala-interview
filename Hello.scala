@@ -1,5 +1,5 @@
 //> using scala 3.3.3
-//> using dep com.lihaoyi::os-lib:0.10.0
+//> using dep com.lihaoyi::os-lib:0.10.1
 
 object Hello:
   def greeting(name: String): String =

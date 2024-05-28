@@ -1,5 +1,5 @@
 //> using scala 3.3.3
-//> using test.dep org.scalameta::munit::0.7.29
+//> using test.dep org.scalameta::munit::1.0.0
 
 class HelloWorldTest extends munit.FunSuite {
   test("greeting") {
